@@ -1,5 +1,5 @@
 # About Me:
-BSc tech student in IT majoring in machine learning and signal processing<br>Currently working on expanding my skillset through projects and coursework<br>
+MSc tech student in IT majoring in machine learning and signal processing<br>Currently working on expanding my skillset through projects and coursework<br>
 
 
 # 💻 Tech Stack:
